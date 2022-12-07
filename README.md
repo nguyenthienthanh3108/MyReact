@@ -11,4 +11,8 @@ Bài tập môn React
 8. [Câu 15 cách 2](https://codepen.io/nguyenthienthanh3108/pen/oNyqPMg)
 9. [Câu 16](https://codepen.io/nguyenthienthanh3108/pen/LYrdJJY)
 10. [Câu 17](https://codepen.io/nguyenthienthanh3108/pen/BaVrOOZ)
+11. [Câu 18](https://codepen.io/nguyenthienthanh3108/pen/poKxOBg)
+12. [Câu 19](https://codepen.io/nguyenthienthanh3108/pen/KKeGGKV)
+13. [Câu 20](https://codepen.io/nguyenthienthanh3108/pen/NWzOOqP)
+14. [Câu 21](https://codepen.io/nguyenthienthanh3108/pen/YzvJJXJ)
 ## Thực hành
