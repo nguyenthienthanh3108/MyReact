@@ -16,4 +16,6 @@ Bài tập môn React
 13. [Câu 20](https://codepen.io/nguyenthienthanh3108/pen/NWzOOqP)
 14. [Câu 21](https://codepen.io/nguyenthienthanh3108/pen/YzvJJXJ)
 ## Thực hành
-1. [Bài thực hành props và sate](https://codepen.io/nguyenthienthanh3108/pen/VwdgGpv)
+1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/dazzling-blackburn-dsoe3f)
+2. [Bài thực hành props và sate](https://codepen.io/nguyenthienthanh3108/pen/VwdgGpv)
+3. [Dự án hoàn chỉnh](https://codepen.io/nguyenthienthanh3108/pen/JjZzdyE)
